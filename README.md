@@ -1,2 +1,2 @@
-# python_data_analytics
-In this repository I will showcase my data analytics skills using python.
+# About
+In this beginner-friendly repository, I will create mini data analytics projects using python.
