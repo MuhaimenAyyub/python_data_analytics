@@ -6,7 +6,7 @@
 # Import library
 import pandas as pd
 
-# Creata a dataframe
+# Load dataset
 df = pd.read_csv("data.csv")
 
 # General data info
